@@ -12,3 +12,6 @@ Master documentations and download links
 + Elliptic => [Reference](./articles/0003-DGraph%20A%20Large-Scale%20Financial%20Dataset%20for%20Graph%20Anomaly%20Detection/)
 + Epinions => [Reference](https://dl.acm.org/doi/abs/10.1145/3159652.3159729)
 + Bitcoin => [Reference](https://arxiv.org/abs/1908.02591)
+
+## Good links
+[Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
