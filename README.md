@@ -24,7 +24,7 @@ Many datasets in [this link](https://www.aminer.cn/citation) and even big sizes
 [Download link](https://github.com/git-disl/EllipticPlusPlus)
 It is a good dataset that has good features
     - many features of nodes and edges
-    - More than binary classes(3 classes) Can also be reduced to 2 classes
+    - More than binary classification (3 classes). Can also be reduced to 2 classes
 
 
 ## Good links
