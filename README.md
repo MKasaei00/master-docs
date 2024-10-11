@@ -9,6 +9,7 @@ Master documentations and download links
 + CIC-DDoS2019 => [Reference](./articles/0001-Sketch-Based%20Anomaly%20Detection%20in%20Streaming%20Graphs/)
 + Amazaon => [Reference](./articles/0005-From%20amateurs%20to%20connoisseurs%20modeling%20the%20evolution%20of%20user%20expertise%20through%20online%20reviews/)
 + YelpChi => [Reference](https://dl.acm.org/doi/abs/10.1145/2783258.2783370) Not very good not very good accessible
++ TwitterSecurity dataset => [Download link](https://odds.cs.stonybrook.edu/twittersecurity-dataset/)
 
 + Elliptic(BitCoin) => [Reference](./articles/0003-DGraph%20A%20Large-Scale%20Financial%20Dataset%20for%20Graph%20Anomaly%20Detection/),
 [Kaggle](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set/),[Reference](https://arxiv.org/abs/1908.02591)
