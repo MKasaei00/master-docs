@@ -16,6 +16,10 @@ Master documentations and download links
 
 + Epinions => [Reference](https://dl.acm.org/doi/abs/10.1145/3159652.3159729), [Download link](https://snap.stanford.edu/data/soc-Epinions1.html)
 
++ DBLP (Citation Network Dataset): [Download link](https://paperswithcode.com/dataset/dblp) This dataset is new and has been used recently. My challenge is how to find anomaly labels
+Many datasets in [this link](https://www.aminer.cn/citation) and even big sizes
+
+
 ## Good links
 [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
 
