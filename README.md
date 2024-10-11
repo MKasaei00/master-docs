@@ -19,6 +19,13 @@ Master documentations and download links
 + DBLP (Citation Network Dataset): [Download link](https://paperswithcode.com/dataset/dblp) This dataset is new and has been used recently. My challenge is how to find anomaly labels
 Many datasets in [this link](https://www.aminer.cn/citation) and even big sizes
 
++ Elliptic++ Dataset: A Graph Network of Bitcoin Blockchain Transactions and Wallet Addresses
+
+[Download link](https://github.com/git-disl/EllipticPlusPlus)
+It is a good dataset that has good features
+    - many features of nodes and edges
+    - More than binary classes(3 classes) Can also be reduced to 2 classes
+
 
 ## Good links
 [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
