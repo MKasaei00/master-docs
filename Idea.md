@@ -1,3 +1,14 @@
+# Ideas
+
+## My own ideas
+
++ combine sketch based anomaly detection with MIDAS
++ Threshold finding is an important task
++ analyze other edge stream data structures
++ make more general cms data structure to make result better
+
+## Reference ideas
+
 ### Literature Review: Edge Anomaly Detection
 
 Edge anomaly detection is a significant subfield of graph-based anomaly detection. It focuses on identifying unusual or unexpected relationships (edges) between nodes in a graph, such as in social networks, communication patterns, or transaction networks. Below are several methods used to detect edge anomalies, along with their descriptions, advantages, limitations, and some datasets commonly used for these tasks.
