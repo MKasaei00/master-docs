@@ -6,6 +6,7 @@
 + Threshold finding is an important task
 + analyze other edge stream data structures
 + make more general cms data structure to make result better
++ Use z-score to improve the scoring that can be compared with single value in different datasets
 
 ## Reference ideas
 
