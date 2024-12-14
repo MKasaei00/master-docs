@@ -31,7 +31,18 @@ In the read me file of the repo all the usefull details will be added
 
 This article is referenced as 18 in this repo
 
-## 33 - 
+This paper is good to deep dive and extract some ideas 
+
+* good signal to start
+
+## 33 - Dhivya Eswaran, Christos Faloutsos, Sudipto Guha, and Nina Mishra. 2018. Spotlight: Detecting anomalies in streaming graphs. In Proceed- ings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 1378–1386. 
+
+[Download link](https://dl.acm.org/doi/10.1145/3219819.3220040)
+
+This article is referenced as 19 in this repo
+
+
+
 ## 32 -
 ## 163 - 
 ## 89 - 
